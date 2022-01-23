@@ -209,3 +209,23 @@ saveBtn15El.addEventListener("click", savecontent15)
 saveBtn16El.addEventListener("click", savecontent16)
 saveBtn17El.addEventListener("click", savecontent17)
 
+
+
+
+// this is Jquery if require to use
+
+// $(".saveBtn").on("click", function () {
+//     console.log("savebutton")
+//     var Text = $(this).siblings(".description").val();
+//     console.log("Text")
+//     var time = $(this).parent().attr("id");
+//     console.log("time")
+//     localStorage.setItem(time, Text);
+    
+// }); 
+
+
+
+// for (var i = 9; i < 18; i++) {
+//     $(`#hour${i} .description`).val(localStorage.getItem(`hour${i}`));
+// }

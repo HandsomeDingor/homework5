@@ -36,3 +36,13 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+## The following image demonstrates the application functionality:
+![hw5](https://user-images.githubusercontent.com/94802639/150700485-7cd1df6e-11b9-4c70-87c1-31ee44476be3.gif)
+
+## Built with
+* Html
+* CSS
+* JavaScript
+* Moment.js
+* Bootstrap
